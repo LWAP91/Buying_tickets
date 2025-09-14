@@ -24,7 +24,7 @@ def main():
     tickets_left = 10
 
 # Initializing a variable accumulator to keep track of the number of buyers
-    buyers = 0
+    Purchaser = 0
 
 # Applying a loop to stop selling when the tickets_left reaches 0
 
