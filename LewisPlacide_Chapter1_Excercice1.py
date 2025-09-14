@@ -4,7 +4,7 @@
 def buying_tickets(tickets_left):
     
 # Asking each buyer for tickets needed and return how many were purchased
-    tickets_needed = int(input("How many tickets do you need? "))
+    tickets_needed = int(input("How many tickets do you want to buy ? "))
     
 # Etablishing the rules for selling tickets using conditional statements
     if tickets_needed > 4:
